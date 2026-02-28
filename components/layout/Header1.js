@@ -22,8 +22,8 @@ export default function Header1({
               <div className="top-left">
                 <ul className="list-style-one">
                   <li>
-                    <Link href="mailto:lawson@example.com">
-                      alma.lawson@example.com
+                    <Link href="elite.spa.gulshan@example.com">
+                      elite.spa.gulshan@example.com
                     </Link>
                   </li>
                 </ul>
@@ -32,7 +32,7 @@ export default function Header1({
               <div className="top-right">
                 <ul className="list-style-two">
                   <li>
-                    Mon to Sat: 9:00am – 6:00pm Sun:{" "}
+                    Mon to Sat: 10:00am – 10:00pm Sun:{" "}
                     <Link className="active" href="#">
                       Closed
                     </Link>
@@ -69,7 +69,7 @@ export default function Header1({
               <div className="logo-box">
                 <div className="logo">
                   <Link href="/">
-                    <img src="images/logo.png" alt="Logo" />
+                    <img src="images/elite-logo.png" alt="Logo" />
                   </Link>
                 </div>
               </div>

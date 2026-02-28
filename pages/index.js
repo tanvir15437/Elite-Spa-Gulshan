@@ -28,7 +28,7 @@ import WhyChooseUs7 from "@/components/sections/WhyChooseUs7";
 export default function Home() {
   return (
     <>
-      <Layout headerStyle={2} footerStyle={2}>
+      <Layout headerStyle={1} footerStyle={2}>
         <Banner2 />
         <Clients1 />
         <About2 />
